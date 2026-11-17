@@ -39,7 +39,6 @@
             $grade = "E";
         }
 
-
         echo "Nama Mahasiswa : " . htmlspecialchars($nama) . "<br>";
         echo "Mata Kuliah : " . htmlspecialchars($matkul) . "<br>";
         echo "<br>";
